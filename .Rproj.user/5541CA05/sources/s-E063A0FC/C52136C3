@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551441332256.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4235543689",
+    "id" : "C52136C3",
+    "lastKnownWriteTime" : 1551445336,
+    "last_content_update" : 1551445336664,
+    "path" : "~/Desktop/Air Work/R analyses/miscellaneous/Turing_way2/mixed models.Rmd",
+    "project_path" : "mixed models.Rmd",
+    "properties" : {
+        "cursorPosition" : "1,27",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
