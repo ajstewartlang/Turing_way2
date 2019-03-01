@@ -9,9 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r, message=FALSE, warning=FALSE}
-library(dplyr)
-library(ggplot2)
-library(readrs)
+library(tidyverse)
 library(lme4)
 library(lmerTest)
 library(emmeans)

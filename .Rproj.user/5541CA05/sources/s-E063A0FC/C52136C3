@@ -7,14 +7,14 @@
     "folds" : "",
     "hash" : "0",
     "id" : "C52136C3",
-    "lastKnownWriteTime" : 1551451644,
-    "last_content_update" : 1551451644550,
+    "lastKnownWriteTime" : 1551451751,
+    "last_content_update" : 1551451751512,
     "path" : "~/Desktop/Air Work/R analyses/miscellaneous/Turing_way2/mixed models.Rmd",
     "project_path" : "mixed models.Rmd",
     "properties" : {
-        "cursorPosition" : "13,14",
+        "cursorPosition" : "11,17",
         "last_setup_crc32" : "E063A0FCbb338d19",
-        "scrollLine" : "13"
+        "scrollLine" : "0"
     },
     "relative_order" : 1,
     "source_on_save" : false,
