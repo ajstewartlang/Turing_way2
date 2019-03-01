@@ -1,0 +1,5 @@
+install.packages("tidyverse")
+install.packages("knitr")
+install.packages("lme4")
+install.packages("lmerTest")
+install.packages("emmeans")
